@@ -1,0 +1,1 @@
+This is the repository for BeBrief, a dataset of arguments submitted to the Supreme Court of the United States (SCOTUS), supporting argument summarization, case retrieval, and novel task: argument completion.
